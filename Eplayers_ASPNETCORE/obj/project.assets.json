@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
       "projectName": "Eplayers_ASPNETCORE",
-      "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
+      "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Eplayers_ASPNETCORE\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
