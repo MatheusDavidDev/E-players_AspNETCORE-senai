@@ -110,3 +110,41 @@ C:\Users\DEV\Desktop\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\o
 C:\Users\DEV\Desktop\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.genruntimeconfig.cache
 C:\Users\DEV\Desktop\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.csproj.CopyComplete
 C:\Users\DEV\Desktop\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.exe
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.deps.json
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.runtimeconfig.json
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.dll
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.pdb
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.Views.dll
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\bin\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.Views.pdb
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.AssemblyInfo.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.RazorAssemblyInfo.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.RazorAssemblyInfo.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.TagHelpers.input.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.TagHelpers.output.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.RazorCoreGenerate.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.RazorTargetAssemblyInfo.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.RazorTargetAssemblyInfo.cs
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.Views.pdb
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\staticwebassets\Eplayers_ASPNETCORE.StaticWebAssets.Manifest.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\staticwebassets\Eplayers_ASPNETCORE.StaticWebAssets.xml
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.dll
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.pdb
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.genruntimeconfig.cache
+C:\Users\DEV\Desktop\Matheus Vinicius David AM1T\Nova pasta\E-players_AspNETCORE-senai\Eplayers_ASPNETCORE\obj\Debug\netcoreapp3.1\Eplayers_ASPNETCORE.csproj.CopyComplete

@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
+  "FilePath": "c:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,43 +14392,43 @@
   "RootNamespace": "Eplayers_ASPNETCORE",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Equipe\\Index.cshtml",
-      "TargetPath": "Views\\Equipe\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Jogador\\Index.cshtml",
-      "TargetPath": "Views\\Jogador\\Index.cshtml",
+      "FilePath": "c:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Equipe\\Index.cshtml",
+      "TargetPath": "Views\\Equipe\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Views\\Jogador\\Index.cshtml",
+      "TargetPath": "Views\\Jogador\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

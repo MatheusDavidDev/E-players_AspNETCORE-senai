@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj": {}
+    "C:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj": {
+    "C:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
+        "projectUniqueName": "C:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
         "projectName": "Eplayers_ASPNETCORE",
-        "projectPath": "C:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
+        "projectPath": "C:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
         "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEV\\Desktop\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\obj\\",
+        "outputPath": "C:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
