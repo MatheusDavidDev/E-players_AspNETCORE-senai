@@ -20,7 +20,7 @@ namespace Eplayers_ASPNETCORE.Models
         
         // Metodos
 
-        private const string PATH = "Database/Jogador.csv";
+        public const string PATH = "Database/Jogador.csv";
 
         public Jogador()
         {

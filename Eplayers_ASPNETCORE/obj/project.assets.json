@@ -8,31 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\DEV\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\mathe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
       "projectName": "Eplayers_ASPNETCORE",
-      "projectPath": "C:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
-      "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEV\\Desktop\\Matheus Vinicius David AM1T\\Nova pasta\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\obj\\",
+      "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\Eplayers_ASPNETCORE.csproj",
+      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\E-players_AspNETCORE-senai\\Eplayers_ASPNETCORE\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

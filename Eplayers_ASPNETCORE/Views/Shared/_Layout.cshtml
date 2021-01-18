@@ -18,7 +18,7 @@
                 </a>
 
                 <a asp-area="" asp-controller="Home" asp-action="Index">
-                    <img src="Images/Logo.svg" alt="Logo do site E-Players">
+                    <img src="~/Images/Logo.svg" alt="Logo do site E-Players">
                 </a>
             </div>
             <nav id="menu">
@@ -27,6 +27,16 @@
                     <li><a href="#horarios" title="Ir até a sessão de horários das partidas">HORÁRIOS</a></li>
                     <li><a href="#resultados" title="Ir até a sessão de resultados das partidas">RESULTADOS</a></li>
                     <li><a href="#noticias" title="Ir até a sessão de notícias">NOTÍCIAS</a></li>
+                    @if (ViewBag.UserName!= null)
+                    {
+                        <li style="color: #d5379b;">Ola, @ViewBag.UserName</li>
+                        <li>
+                            <a asp-controller="Login" asp-action="Logout" title="Deslogar da aplicacao">SAIR</a>
+                        </li>
+                    }else{
+
+                    <li><a asp-controller="Login" asp-action="Index" title="Logar na aplicacao">ENTRAR</a></li>
+                    }
                     <li><a href="#" title="buscar conteudo no site"><i class="fas fa-search"></i></a></li>
                 </ul>
             </nav>
@@ -54,7 +64,7 @@
                 </nav>
             </div>
             <div class="mob_logo_sociais">
-                <img src="Images/Logo.svg" alt="Logo do projeto E-Players">
+                <img src="~/Images/Logo.svg" alt="Logo do projeto E-Players">
                 <div class="sociais">
                     <i class="fab fa-facebook-square"></i>
                     <i class="fab fa-instagram-square"></i>

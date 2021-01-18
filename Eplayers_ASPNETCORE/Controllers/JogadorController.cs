@@ -9,10 +9,12 @@ namespace Eplayers_ASPNETCORE.Controllers
     public class JogadorController : Controller
     {
         Jogador jogadorModel = new Jogador();
+        Equipe equipeModel = new Equipe();
 
         [Route("Listar")]
         public IActionResult Index()
         {
+            ViewBag.Equipes = equipeModel.ReadAll();
             ViewBag.jogadores = jogadorModel.ReadAll();
             return View();
         }
